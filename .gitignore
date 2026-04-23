@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 機密情報・認証情報（絶対にコミットしないこと）
+client_secrets.json
+*.pkl
+token*.json
+credentials.json
+.env
+*.env
+
+# 一時ファイル
+*.mp4
+*.m4a
+/tmp/
+
+# Claude Code
+.claude/
+
+# その他のプロジェクト（このリポジトリに含めないフォルダ）
+video-use/
+video_editor/

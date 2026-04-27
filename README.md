@@ -135,11 +135,11 @@ Zoomのクラウド録画を、指定した期間まとめてYouTubeへ自動ア
 
 ![YouTube Data APIを検索](images/04_search_api.jpg)
 
-3. 「**YouTube Data API v3**」をクリック
+3. 「**有効にする**」をクリック
 
 ![YouTube Data API v3の検索結果](images/05_api_search_result.jpg)
 
-4. 「**有効にする**」をクリック
+4. 「**YouTube Data API v3**」をクリック
 
 ![APIを有効にする](images/06_enable_api.jpg)
 
